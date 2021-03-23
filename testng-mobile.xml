@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="suite">
+	<test name="test">
+		<classes>
+			<class name="com.ng.mobile.tests.Runner_ApplicationScreen" />
+			<class name="com.ng.mobile.tests.Runner_ENButton" />
+			<class name="com.ng.mobile.tests.Runner_ChromeLogo" />
+			<class name="com.ng.mobile.tests.Runner_ProgressBar" />
+			<class name="com.ng.mobile.tests.Runner_Toast" />
+			<class name="com.ng.mobile.tests.Runner_PopUp" />
+			<class name="com.ng.mobile.tests.Runner_UnhandledException" />
+			<class name="com.ng.mobile.tests.Runner_ExceptionField" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
